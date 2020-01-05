@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>mail</title>
+    <!-- Google Font -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,200,300,500&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif&display=swap">
+  <!-- Firebase App is always required and must be first -->
+  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-app.js"></script>
+
+  <!-- Add additional services that you want to use -->
+  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-storage.js"></script>
+
+  <!-- jQuery -->
+  <script src="js/jquery.js"></script>
+
+  <!-- Bootstrap CSS/JS -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+    integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+  <script src="js/bootstrap.min.js"></script>
+
+  <!-- Custom JS/CSS -->
+  <script src="js/script.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <article>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col white_t t_40 mt-3 ml-3" style="font-size: 24px;">Anything Want to Say?</div>
+                <div class="col text-right mr-3 mt-4"><a href="camera.html"><img src="img/news_back.svg"></a></div>
+              </div>
+            <hr class="line" />
+
+            <div class="row white_t ml-1 mt-5">
+                <div class="col-md-12 t_12">是不是覺得有更好的搭配？還是Cheers能夠改善的地方？又有可能只想告白Cheers？這裏歡迎各式各樣的意見！</div>
+                <div class="col py-4"><input type="text" style="width: 250px; height: 260px;" id="saysomething"></div> 
+                <div class="w-100"></div>
+                <div class="col-md-8"></div>
+                <div class="col-md-3 py-3"><input type="submit" value="發送" class="send" id="send"></div> 
+            </div>
+        </div>
+    </article>
+</body>

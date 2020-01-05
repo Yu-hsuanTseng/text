@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.714" height="40" viewBox="0 0 45.714 40">
+  <g id="留言" transform="translate(-320 -171)">
+    <path id="Icon_awesome-comment" data-name="Icon awesome-comment" d="M22.857,2.25C10.232,2.25,0,10.563,0,20.821a16.484,16.484,0,0,0,5.089,11.67C3.973,36.991.241,41,.2,41.045a.71.71,0,0,0-.134.777.7.7,0,0,0,.652.429,20.419,20.419,0,0,0,12.554-4.589,27.23,27.23,0,0,0,9.589,1.732c12.625,0,22.857-8.312,22.857-18.571S35.482,2.25,22.857,2.25Z" transform="translate(320 168.75)" fill="#d2e0fd"/>
+    <text id="留言_" data-name="留言!" transform="translate(320 180)" fill="#000e2c" font-size="15" font-family="YuGothicUI-Semibold, Yu Gothic UI" font-weight="600" letter-spacing="0.07em"><tspan x="3.672" y="16">留言</tspan><tspan y="16" font-family="SegoeUI-Semibold, Segoe UI">!</tspan></text>
+  </g>
+</svg>

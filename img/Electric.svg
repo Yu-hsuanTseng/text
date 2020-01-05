@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="81" viewBox="0 0 81 81">
+  <g id="Electric" transform="translate(-169 -516)">
+    <g id="Electric-2" data-name="Electric">
+      <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(169 516)" fill="#2a406f" stroke="#fff" stroke-width="1">
+        <circle cx="40.5" cy="40.5" r="40.5" stroke="none"/>
+        <circle cx="40.5" cy="40.5" r="40" fill="none"/>
+      </g>
+    </g>
+    <text id="Electric-3" data-name="Electric" transform="translate(184 547)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="16">Electric</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,205 @@
+html {
+    background-color: #000E2C;
+}
+
+/* @media all and (min-width: 480px) and (max-width: 800px) {
+    #container {width: auto; max-width: 800px;}
+    #main {width: 70%; float: left;}
+    #sidebar {width: 30%; float: left; margin-bottom: 10px;}
+    #pub {width: 30%; margin-left: 70%; float: none;} } 
+
+@media all and (min-width: 400px) and (max-width: 480px) {
+    #container {width: auto; max-width: 480px;}
+    #main, #sidebar, #pub {width: 100%; float: none;}
+    h1 {position: absolute; top: 0; height: 30px; width: 100%;}
+    #sidebar {position: absolute; top: 40px; height: 40px;}
+    #sidebar p {display: none;}
+    #sidebar ul {padding: 0; margin-top: 10px; overflow: hidden;}
+    #sidebar ul li {display: inline; font-size: 15px;}
+    #main {position: absolute; top: 80px;}
+    #pub, #footer {display: none;}
+}
+ */
+article {
+    background-color: #000E2C;
+    /* height: 736px; */
+    /* width: 420px; */
+}
+
+
+.white_t {
+    color: white;
+}
+
+
+
+
+.comment {
+    padding-left: 30%;
+}
+
+.detail {
+    padding-left: 18%;
+    width: 300px;
+}
+
+.t_10 {
+    font-size: 10px;
+    line-height: 14pt;
+}
+
+button {
+    color: white;
+    font-weight: 800;
+    font-size: 27px;
+    border: white;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: #2A406F;
+    width: 100px;
+    height: 40px;
+}
+
+.a_style {
+    text-decoration: none;
+    color: white;
+}
+
+.card-title {
+    color: white;
+}
+
+.line {
+    /* width: 342px; */
+    height: 0.5px;
+    background-color: white;
+}
+
+.t_40 {
+    font-size: 40px;
+}
+
+.post {
+    position: absolute;
+    top: 300px;
+    left: 20px;
+}
+
+.t_12 {
+    font-size: 12px;
+    line-height: 18pt;
+}
+
+.send {
+    color: white;
+    font-weight: 800;
+    font-size: 16px;
+    border: white;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: #2A406F;
+    width: 80px;
+    height: 40px;
+}
+
+.icon-image {
+    display: block;
+    margin: 1em auto;
+}
+
+.newsss {
+    width: 90%;
+}
+
+.mt-15 {
+    margin-top:150px;
+}
+
+.mt-10 {
+    margin-top:100px;
+}
+
+.ml-4-5 {
+    margin-left: 36px;
+}
+
+.mt-20 {
+    margin-top: 230px;
+}
+
+.mb-20 {
+    margin-top: 230px;
+}
+
+.daily_text {
+    color:#D0DFFF; 
+    font-weight: 600;
+}
+
+.placeholder1 ::-webkit-input-placeholder { color: #D2E0FD;}
+.placeholder2 ::-webkit-input-placeholder { color: #D2E0FD; }
+
+.placeholder1 {
+    width: 90%;
+}
+
+.placeholder2 {
+    border: white;
+    border-style: solid;
+    background-color: #2A406F;
+    width: 90%;
+    height: 130px;
+    margin-left: 17px;
+}
+
+
+/* chat room 可以滾動 */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    background: url('../img/backgroundImage.jpg') no-repeat center fixed;
+    background-size: cover;
+  }
+  
+  .card-header {
+    font-family: 'Noto Serif', serif;
+    font-size: 2.5rem;
+  }
+  
+  .name-field {
+    text-align: center;
+  }
+  
+  .name-field,
+  .message-field {
+    padding: 0 0.5em;
+  }
+  
+  .name-field::placeholder,
+  .message-field::placeholder {
+    opacity: 0.5;
+  }
+  
+  .message-list {
+    list-style: none;
+    margin: 0px;
+    padding: 20px;
+    height: 40vh;
+    overflow: auto;
+  }
+  
+  .message-item {
+      font-weight: 200;
+      margin-bottom: 10px;
+      line-height: 24px;
+  }
+  
+  .message-item:last-child {
+      margin: 0px;
+  }
+  
+  .chat-username {
+      margin-right: 0.4rem;
+      font-weight: bold;
+  }
+  

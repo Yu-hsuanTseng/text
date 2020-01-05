@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="125" viewBox="0 0 125 125">
+  <g id="Black" transform="translate(-51 -402)">
+    <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(51 402)" fill="#2a406f" stroke="#fff" stroke-width="2">
+      <circle cx="62.5" cy="62.5" r="62.5" stroke="none"/>
+      <circle cx="62.5" cy="62.5" r="61.5" fill="none"/>
+    </g>
+    <text id="Black_Stout" data-name="Black
+Stout" transform="translate(80 430)" fill="#fff" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="29">Black</tspan><tspan x="0" y="65">Stout</tspan></text>
+  </g>
+</svg>

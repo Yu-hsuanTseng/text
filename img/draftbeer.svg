@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="125" viewBox="0 0 125 125">
+  <g id="draftbeer" transform="translate(-2565 -758)">
+    <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(2565 758)" fill="#2a406f" stroke="#fff" stroke-width="2">
+      <circle cx="62.5" cy="62.5" r="62.5" stroke="none"/>
+      <circle cx="62.5" cy="62.5" r="61.5" fill="none"/>
+    </g>
+    <text id="Draft_Beer" data-name="Draft Beer" transform="translate(2591 784)" fill="#fff" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="6.672" y="29">Draft </tspan><tspan x="9.948" y="65">Beer</tspan></text>
+  </g>
+</svg>

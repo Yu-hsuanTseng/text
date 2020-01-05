@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="286" height="289" viewBox="0 0 286 289">
+  <g id="Group_1" data-name="Group 1" transform="translate(-64 -225)">
+    <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(64 225)" fill="#2a406f" stroke="#fff" stroke-width="3">
+      <rect width="286" height="286" rx="27" stroke="none"/>
+      <rect x="1.5" y="1.5" width="283" height="283" rx="25.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="280" height="53" transform="translate(67 262)" fill="#d0dfff"/>
+    <text id="November" transform="translate(119 267)" fill="#000e2c" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="0" y="38">November</tspan></text>
+    <text id="_10" data-name="10" transform="translate(117 314)" fill="#fff" font-size="150" font-family="SegoeUI, Segoe UI"><tspan x="0" y="162">10</tspan></text>
+  </g>
+</svg>

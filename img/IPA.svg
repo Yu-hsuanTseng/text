@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="125" viewBox="0 0 125 125">
+  <g id="IPA" transform="translate(-238 -402)">
+    <g id="Ellipse_13" data-name="Ellipse 13" transform="translate(238 402)" fill="#2a406f" stroke="#fff" stroke-width="2">
+      <circle cx="62.5" cy="62.5" r="62.5" stroke="none"/>
+      <circle cx="62.5" cy="62.5" r="61.5" fill="none"/>
+    </g>
+    <text id="IPA-2" data-name="IPA" transform="translate(272 441)" fill="#fff" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="0" y="43">IPA</tspan></text>
+  </g>
+</svg>
